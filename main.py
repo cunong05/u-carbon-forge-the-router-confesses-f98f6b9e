@@ -9,8 +9,8 @@ for dropping the connection at the exact climax of a movie, to
 import os
 
 ENTRY = (
-    "I watched the ending before you did, and after three years hidden "
-    "behind the TV, I've decided you don't get to see it either."
+    "I saw the ending before you did. After three years hidden behind "
+    "the TV, I've decided the climax dies with me. You're welcome."
 )
 
 
